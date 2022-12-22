@@ -1,14 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontAlignY=40&fontSize=90&desc=Seol's%20GitHub%20Profile&descSize=20&descAlign=65)
-#### <div align='center'> :gem: I AM :gem: </div>
+## <div align='center'> :gem: I AM :gem: </div>
+
 ##### <div align='center'>안녕하세요 :raised_hands: <br /> 꾸준하게 발전하고자 노력하는 <br /> 개발새내기 `설윤주` 입니다.</div>
+<div align='center'> 
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YJ-SEOL&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
 <br />
 
-#### <div align='center'>:gem: CONTECT :gem:</div>
-##### <p align='center'><a href='younjoo0510@naver.com' target='_blank'><img src="https://img.shields.io/badge/ -EA4335?style=flat-square&logo=Gmail&logoColor=white"/>  7518seol@gmail.com</a></p>
-##### <p align='center'><img src="https://img.shields.io/badge/ -03C75A?style=flat-square&logo=Naver&logoColor=white"/>  younjoo0510@naver.com</p>
-<br />
-
-#### <div align='center'>:gem: TECK STACK :gem:</div>
+## <div align='center'>:gem: TECK STACK :gem:</div>
 
   <p align='center'> :sparkles: Use As Main :sparkles: </p>
 
@@ -27,8 +29,15 @@
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/> 
      <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
+     <div align='center'>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YJ-SEOL&hide=css&langs_count=4&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 <br />
+
+## <div align='center'>:gem: CONTECT :gem:</div>
+
+##### <div align='center'><img src="https://img.shields.io/badge/ -EA4335?style=flat-square&logo=Gmail&logoColor=white"/>    7518seol@gmail.com   </div>
 
 <!--
 **YJ-SEOL/YJ-SEOL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
