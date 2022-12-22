@@ -6,11 +6,11 @@
 ## <div align='center'> :gem: I AM :gem: </div>
 
 ##### <div align='center'>Hi :raised_hands: <br /> 꾸준하게 발전하고자 노력하는 <br /> 개발새내기 `설윤주` 입니다.</div>
-<div align='center'> 
+<!-- <div align='center'> 
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YJ-SEOL&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+</div> -->
 
 <br />
 
