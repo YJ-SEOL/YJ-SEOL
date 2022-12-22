@@ -1,4 +1,7 @@
+<div align ='center'>
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontAlignY=40&fontSize=90&desc=Seol's%20GitHub%20Profile&descSize=20&descAlign=65)
+</div>
 ## <div align='center'> :gem: I AM :gem: </div>
 
 ##### <div align='center'>안녕하세요 :raised_hands: <br /> 꾸준하게 발전하고자 노력하는 <br /> 개발새내기 `설윤주` 입니다.</div>
