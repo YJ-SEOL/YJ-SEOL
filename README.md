@@ -4,8 +4,8 @@
 <br />
 
 #### <div align='center'>:gem: CONTECT :gem:</div>
-<p align='center'><a href = '7518seol@gmail.com'><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a></p>
-<p align='center'><a href = 'younjoo0510@naver.com'><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a></p>
+##### <p align='center'><img src="https://img.shields.io/badge/ -EA4335?style=flat-square&logo=Gmail&logoColor=white"/> 7518seol@gmail.com</p>
+##### <p align='center'><img src="https://img.shields.io/badge/ -03C75A?style=flat-square&logo=Naver&logoColor=white"/> younjoo0510@naver.com</p>
 <br />
 
 #### <div align='center'>:gem: TECK STACK :gem:</div>
