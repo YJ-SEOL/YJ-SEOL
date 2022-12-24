@@ -41,6 +41,8 @@
 
 ## <div align='center'>:gem: CONTECT :gem:</div>
 
-##### <div align='center'><img src="https://img.shields.io/badge/ -EA4335?style=flat-square&logo=Gmail&logoColor=white"/>    7518seol@gmail.com   </div>
+##### <div align='center'><a href='mailto:7518seol@gmail.com'><img src="https://img.shields.io/badge/ GMAIL-EA4335?style=flat-square&logo=Gmail&logoColor=white"&link=mailto:7518@gmail.com/> </a></div>
+
+  
 
 
